@@ -1,1 +1,5 @@
 aProject
+node_modules
+.envrc
+elm.json
+elm-stuff
